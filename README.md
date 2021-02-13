@@ -1,4 +1,4 @@
-### Hello my name is Camatar. I like to play minecraft code clients in my free time.
+### Hello my name is Camatar. I like to play minecraft and code clients in my free time.
 
 #### Contact me ####
 * Discord: Camatar#0839
